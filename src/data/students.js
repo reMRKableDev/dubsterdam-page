@@ -25,15 +25,16 @@ export const StudentList = [
     projects: [
       {
         id: 1,
-        name: "Project 1",
-        description: "Project 1 Description",
-        link: "Project 1 link",
+        name: "Wild Amsterdam",
+        description: "An introduction to Amsterdam",
+        link: "https://lioliveiraz.github.io/Wild-Amsterdam/",
       },
       {
         id: 2,
-        name: "Project 2",
-        description: "Project 2 Description",
-        link: "Project 2 link",
+        name: "Animals Who Fight",
+        description:
+          "A space for animals to catch up on current news events, voice concerns, and have a laugh.",
+        link: "https://sissythepanda.netlify.app/",
       },
       {
         id: 3,
@@ -118,15 +119,15 @@ export const StudentList = [
     projects: [
       {
         id: 1,
-        name: "Project 1",
-        description: "Project 1 Description",
-        link: "Project 1 link",
+        name: "Wild Amsterdam",
+        description: "An introduction to Amsterdam",
+        link: "https://lioliveiraz.github.io/Wild-Amsterdam/",
       },
       {
         id: 2,
-        name: "Project 2",
-        description: "Project 2 Description",
-        link: "Project 2 link",
+        name: "Ela's Casino",
+        description: "Digital version of the card game Snap!",
+        link: "https://elascasino.netlify.app/",
       },
       {
         id: 3,
@@ -149,15 +150,16 @@ export const StudentList = [
     projects: [
       {
         id: 1,
-        name: "Project 1",
-        description: "Project 1 Description",
-        link: "Project 1 link",
+        name: "Wild Amsterdam",
+        description: "An introduction to Amsterdam",
+        link: "https://lioliveiraz.github.io/Wild-Amsterdam/",
       },
       {
         id: 2,
-        name: "Project 2",
-        description: "Project 2 Description",
-        link: "Project 2 link",
+        name: "Animals Who Fight",
+        description:
+          "A space for animals to catch up on current news events, voice concerns, and have a laugh.",
+        link: "https://sissythepanda.netlify.app/",
       },
       {
         id: 3,
@@ -211,15 +213,15 @@ export const StudentList = [
     projects: [
       {
         id: 1,
-        name: "Project 1",
-        description: "Project 1 Description",
-        link: "Project 1 link",
+        name: "Wild Guide",
+        description: "Amsterdam Travel Guide",
+        link: "https://seymonyu.github.io/firstProject_Amsterdam_photo_guide/",
       },
       {
         id: 2,
-        name: "Project 2",
-        description: "Project 2 Description",
-        link: "Project 2 link",
+        name: "Ela's Casino",
+        description: "Digital version of the card game Snap!",
+        link: "https://elascasino.netlify.app/",
       },
       {
         id: 3,
@@ -242,15 +244,15 @@ export const StudentList = [
     projects: [
       {
         id: 1,
-        name: "Project 1",
-        description: "Project 1 Description",
-        link: "Project 1 link",
+        name: "Wild Amsterdam",
+        description: "An introduction to Amsterdam",
+        link: "https://lioliveiraz.github.io/Wild-Amsterdam/",
       },
       {
         id: 2,
-        name: "Project 2",
-        description: "Project 2 Description",
-        link: "Project 2 link",
+        name: "Ela's Casino",
+        description: "Digital version of the card game Snap!",
+        link: "https://elascasino.netlify.app/",
       },
       {
         id: 3,
@@ -273,15 +275,16 @@ export const StudentList = [
     projects: [
       {
         id: 1,
-        name: "Project 1",
-        description: "Project 1 Description",
-        link: "Project 1 link",
+        name: "Wild Guide",
+        description: "Amsterdam Travel Guide",
+        link: "https://seymonyu.github.io/firstProject_Amsterdam_photo_guide/",
       },
       {
         id: 2,
-        name: "Project 2",
-        description: "Project 2 Description",
-        link: "Project 2 link",
+        name: "Animals Who Fight",
+        description:
+          "A space for animals to catch up on current news events, voice concerns, and have a laugh.",
+        link: "https://sissythepanda.netlify.app/",
       },
       {
         id: 3,
@@ -335,15 +338,16 @@ export const StudentList = [
     projects: [
       {
         id: 1,
-        name: "Project 1",
-        description: "Project 1 Description",
-        link: "Project 1 link",
+        name: "Wild Guide",
+        description: "Amsterdam Travel Guide",
+        link: "https://seymonyu.github.io/firstProject_Amsterdam_photo_guide/",
       },
       {
         id: 2,
-        name: "Project 2",
-        description: "Project 2 Description",
-        link: "Project 2 link",
+        name: "Animals Who Fight",
+        description:
+          "A space for animals to catch up on current news events, voice concerns, and have a laugh.",
+        link: "https://sissythepanda.netlify.app/",
       },
       {
         id: 3,

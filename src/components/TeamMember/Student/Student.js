@@ -21,7 +21,11 @@ import {
 
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { StyledCarouselDiv } from "./StudentStyles";
+import {
+  StyledCarouselDivContainer,
+  StyledCarouselInnerDiv,
+  StyledCarouselProjectTitle,
+} from "./StudentStyles";
 
 const Student = ({ student }) => {
   return (
@@ -46,19 +50,31 @@ const Student = ({ student }) => {
           <StyledReactIcon />
           <StyledNodeIcon />
           <StyledDatabaseIcon />
-          <Carousel autoPlay showThumbs={false}>
-            {student.projects.map((project) => (
-              <StyledCarouselDiv>
-                <p>{project.name}</p>
-                <p>{project.description}</p>
-                <p>{project.link}</p>
-              </StyledCarouselDiv>
-            ))}
-          </Carousel>
+          <hr />
+          <h4>Projects I've done</h4>
+          <StyledCarouselDivContainer>
+            <Carousel showThumbs={false}>
+              {student.projects.map((project) => (
+                <StyledCarouselInnerDiv key={project.id}>
+                  <StyledCarouselProjectTitle>
+                    {project.name}
+                  </StyledCarouselProjectTitle>
+                  <p>{project.description}</p>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href={project.link}
+                  >
+                    See the website
+                  </a>
+                </StyledCarouselInnerDiv>
+              ))}
+            </Carousel>
+          </StyledCarouselDivContainer>
         </StyledStudentInfo>
         <StyledIconsDivContainer>
           <StyledIcons>
-            <p>See my projects</p>
+            <p>See more projects</p>
             <a target="_blank" rel="noopener noreferrer" href={student.github}>
               <StyledGitHubIcon />
             </a>
