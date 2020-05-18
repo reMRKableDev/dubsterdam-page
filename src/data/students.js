@@ -1,11 +1,22 @@
-import Avatar from "../assets/demo.jpg";
+import Aigul from "../assets/aigul.jpg";
+import Andrea from "../assets/andrea.jpg";
+import Angeline from "../assets/angeline.jpg";
+import Anu from "../assets/anu.jpg";
+import Birte from "../assets/birte.jpg";
+import Chandni from "../assets/chandni.jpg";
+import Elsa from "../assets/elsa.jpg";
+import Ligia from "../assets/ligia.jpg";
+import Ligita from "../assets/ligita.jpg";
+import Mollie from "../assets/mollie.jpg";
+import Seyma from "../assets/seyma.jpg";
+import Vicky from "../assets/vicky.jpg";
 
 export const StudentList = [
   {
     id: 1,
     firstName: "Aigul",
     lastName: "Imaralieva",
-    profilePic: Avatar,
+    profilePic: Aigul,
     campus: "Amsterdam",
     about:
       "I have a positive attitude and hard work helps me accept challenges.",
@@ -36,7 +47,7 @@ export const StudentList = [
     id: 2,
     firstName: "Andrea",
     lastName: "De Roeck",
-    profilePic: Avatar,
+    profilePic: Andrea,
     campus: "Dublin",
     about:
       "I am passionate about all aspects of design from typography, colours, layouts to HTML and CSS.",
@@ -67,7 +78,7 @@ export const StudentList = [
     id: 3,
     firstName: "Angeline",
     lastName: "Rocha",
-    profilePic: Avatar,
+    profilePic: Angeline,
     campus: "Dublin",
     about:
       "I'm a highly motivated, mature, positive and hardworking professional, looking to produce work of the highest standard, excel and further develop my career in Computing. ",
@@ -98,7 +109,7 @@ export const StudentList = [
     id: 4,
     firstName: "Anuradha",
     lastName: "Sivasubramanian",
-    profilePic: Avatar,
+    profilePic: Anu,
     campus: "Amsterdam",
     about:
       "I'm an aspiring self motivated full stack web developer with a passion for responsive design and learning new skills.",
@@ -129,7 +140,7 @@ export const StudentList = [
     id: 5,
     firstName: "Birte",
     lastName: "Spreuer",
-    profilePic: Avatar,
+    profilePic: Birte,
     campus: "Amsterdam",
     about:
       "I'm dedicating myself to designing beautiful products, coding and the good life.",
@@ -160,7 +171,7 @@ export const StudentList = [
     id: 6,
     firstName: "Chandni",
     lastName: "Janachandran",
-    profilePic: Avatar,
+    profilePic: Chandni,
     campus: "Dublin",
     about:
       "I'm passionate towards designing and developing products/services that enhances and simplifies user's everyday lives.",
@@ -191,7 +202,7 @@ export const StudentList = [
     id: 7,
     firstName: "Elsabeth",
     lastName: "Desta",
-    profilePic: Avatar,
+    profilePic: Elsa,
     campus: "Amsterdam",
     about:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -222,7 +233,7 @@ export const StudentList = [
     id: 8,
     firstName: "Ligia",
     lastName: "Souza",
-    profilePic: Avatar,
+    profilePic: Ligia,
     campus: "Amsterdam",
     about:
       "I'm passionate about improving the user experience (UX), creating optimized and responsive websites.",
@@ -253,7 +264,7 @@ export const StudentList = [
     id: 9,
     firstName: "Ligita",
     lastName: "Motvilaite",
-    profilePic: Avatar,
+    profilePic: Ligita,
     campus: "Amsterdam",
     about:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -284,7 +295,7 @@ export const StudentList = [
     id: 10,
     firstName: "Mollie",
     lastName: "Ball",
-    profilePic: Avatar,
+    profilePic: Mollie,
     campus: "Dublin",
     about:
       "I am a powerful force in the workplace and always use my positive attitude and tireless energy to encourage others to work hard and strive for perfection.",
@@ -315,7 +326,7 @@ export const StudentList = [
     id: 11,
     firstName: "Seyma",
     lastName: "Firat",
-    profilePic: Avatar,
+    profilePic: Seyma,
     campus: "Amsterdam",
     about:
       "I am an enthusiastic learner of new concepts and can easily adapt to new environments.",
@@ -346,7 +357,7 @@ export const StudentList = [
     id: 12,
     firstName: "Vicky-Leandra",
     lastName: "Teixeira",
-    profilePic: Avatar,
+    profilePic: Vicky,
     campus: "Dublin",
     about: "I'm a lover of words, writing and the media.",
     github: "https://github.com/Vickyleandra",

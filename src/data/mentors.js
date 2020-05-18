@@ -1,4 +1,5 @@
-import Avatar from "../assets/demo.jpg";
+import Edo from "../assets/edo.jpg";
+import Malcolm from "../assets/malcolm.jpg";
 
 export const MentorsList = [
   {
@@ -6,13 +7,13 @@ export const MentorsList = [
     firstName: "Edo",
     lastName: "Molhoek",
     role: "Campus Manager",
-    profilePic: Avatar,
+    profilePic: Edo,
   },
   {
     id: 2,
     firstName: "Malcolm R.",
     lastName: "Kente",
     role: "Lead Instructor",
-    profilePic: Avatar,
+    profilePic: Malcolm,
   },
 ];
