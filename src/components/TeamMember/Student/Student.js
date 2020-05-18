@@ -19,6 +19,10 @@ import {
   StyledJsIcon,
 } from "../MemberStyles";
 
+import { Carousel } from "react-responsive-carousel";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { StyledCarouselDiv } from "./StudentStyles";
+
 const Student = ({ student }) => {
   return (
     <StyledArticle>
@@ -42,6 +46,15 @@ const Student = ({ student }) => {
           <StyledReactIcon />
           <StyledNodeIcon />
           <StyledDatabaseIcon />
+          <Carousel autoPlay showThumbs={false}>
+            {student.projects.map((project) => (
+              <StyledCarouselDiv>
+                <p>{project.name}</p>
+                <p>{project.description}</p>
+                <p>{project.link}</p>
+              </StyledCarouselDiv>
+            ))}
+          </Carousel>
         </StyledStudentInfo>
         <StyledIconsDivContainer>
           <StyledIcons>
