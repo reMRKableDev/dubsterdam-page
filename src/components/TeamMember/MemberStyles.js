@@ -145,6 +145,11 @@ ${respondTo.lg`
 `}
 `;
 
+export const StyledLocationPhrase = styled.span`
+  color: ${brandColor};
+  text-transform: underline;
+`;
+
 export const StyledIconsDivContainer = styled.div`
   background-color: ${brandColor};
   display: flex;

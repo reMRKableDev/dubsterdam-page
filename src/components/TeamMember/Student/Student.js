@@ -17,6 +17,7 @@ import {
   StyledNodeIcon,
   StyledReactIcon,
   StyledJsIcon,
+  StyledLocationPhrase,
 } from "../MemberStyles";
 
 import { Carousel } from "react-responsive-carousel";
@@ -42,6 +43,9 @@ const Student = ({ student }) => {
             </span>
           </h3>
           <p>{student.about}</p>
+          <StyledLocationPhrase>
+            Location: {student.campus} <em>(Remote)</em>
+          </StyledLocationPhrase>
           <hr />
           <h4>Technologies I've used</h4>
           <StyledHtmlIcon />
