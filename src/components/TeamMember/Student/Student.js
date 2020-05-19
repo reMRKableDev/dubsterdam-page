@@ -53,7 +53,7 @@ const Student = ({ student }) => {
           <hr />
           <h4>Projects I've done</h4>
           <StyledCarouselDivContainer>
-            <Carousel showThumbs={false} width="350px">
+            <Carousel showThumbs={false}>
               {student.projects.map((project) => (
                 <StyledCarouselInnerDiv key={project.id}>
                   <StyledCarouselProjectTitle>
