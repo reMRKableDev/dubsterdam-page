@@ -160,7 +160,7 @@ export const StyledIcons = styled.div`
   width: 100%;
 
   p {
-    margin: 10px 0;
+    margin: 0 0 10px 0;
     text-transform: uppercase;
     text-decoration: underline;
   }

@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { respondTo } from "../../../layout/respondTo";
 import { bgColor, textColor, brandColor } from "../../../utils/themeColors";
 
 export const StyledCarouselDivContainer = styled.div`
@@ -15,7 +16,7 @@ export const StyledCarouselProjectTitle = styled.p`
 
 export const StyledCarouselInnerDiv = styled.div`
   background-color: ${textColor};
-  padding: 20px 0;
+  padding: 30px;
 
   a,
   p {
@@ -29,5 +30,14 @@ export const StyledCarouselInnerDiv = styled.div`
     color: ${brandColor};
     text-transform: uppercase;
     padding: 5px;
+
+    &:hover {
+      background-color: ${brandColor};
+      color: ${bgColor};
+    }
   }
+
+  ${respondTo.sm`
+    padding: 40px 0;
+  `}
 `;

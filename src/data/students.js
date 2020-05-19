@@ -32,15 +32,8 @@ export const StudentList = [
       {
         id: 2,
         name: "Animals Who Fight",
-        description:
-          "A space for animals to catch up on current news events, voice concerns, and have a laugh.",
+        description: "A space for Animals",
         link: "https://sissythepanda.netlify.app/",
-      },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
       },
     ],
   },
@@ -67,12 +60,6 @@ export const StudentList = [
         description: "Project 2 Description",
         link: "Project 2 link",
       },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
-      },
     ],
   },
   {
@@ -97,12 +84,6 @@ export const StudentList = [
         name: "Project 2",
         description: "Project 2 Description",
         link: "Project 2 link",
-      },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
       },
     ],
   },
@@ -129,12 +110,6 @@ export const StudentList = [
         description: "Digital version of the card game Snap!",
         link: "https://elascasino.netlify.app/",
       },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
-      },
     ],
   },
   {
@@ -157,15 +132,8 @@ export const StudentList = [
       {
         id: 2,
         name: "Animals Who Fight",
-        description:
-          "A space for animals to catch up on current news events, voice concerns, and have a laugh.",
+        description: "A space for Animals",
         link: "https://sissythepanda.netlify.app/",
-      },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
       },
     ],
   },
@@ -192,12 +160,6 @@ export const StudentList = [
         description: "Project 2 Description",
         link: "Project 2 link",
       },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
-      },
     ],
   },
   {
@@ -222,12 +184,6 @@ export const StudentList = [
         name: "Ela's Casino",
         description: "Digital version of the card game Snap!",
         link: "https://elascasino.netlify.app/",
-      },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
       },
     ],
   },
@@ -254,12 +210,6 @@ export const StudentList = [
         description: "Digital version of the card game Snap!",
         link: "https://elascasino.netlify.app/",
       },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
-      },
     ],
   },
   {
@@ -282,15 +232,8 @@ export const StudentList = [
       {
         id: 2,
         name: "Animals Who Fight",
-        description:
-          "A space for animals to catch up on current news events, voice concerns, and have a laugh.",
+        description: "A space for Animals",
         link: "https://sissythepanda.netlify.app/",
-      },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
       },
     ],
   },
@@ -317,12 +260,6 @@ export const StudentList = [
         description: "Project 2 Description",
         link: "Project 2 link",
       },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
-      },
     ],
   },
   {
@@ -345,15 +282,8 @@ export const StudentList = [
       {
         id: 2,
         name: "Animals Who Fight",
-        description:
-          "A space for animals to catch up on current news events, voice concerns, and have a laugh.",
+        description: "A space for Animals",
         link: "https://sissythepanda.netlify.app/",
-      },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
       },
     ],
   },
@@ -378,12 +308,6 @@ export const StudentList = [
         name: "Project 2",
         description: "Project 2 Description",
         link: "Project 2 link",
-      },
-      {
-        id: 3,
-        name: "Project 3",
-        description: "Project 3 Description",
-        link: "Project 3 link",
       },
     ],
   },

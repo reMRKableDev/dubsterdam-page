@@ -17,12 +17,13 @@ const Mentor = ({ mentor }) => {
       <StyledStudentInfoContainer>
         <StyledStudentInfo>
           <h3>
-            I'm{" "}
             <span>
               {mentor.firstName} {mentor.lastName}
             </span>
           </h3>
-          <p>group review goes here...</p>
+          {mentor.review.map((paragraph) => (
+            <p>{paragraph}</p>
+          ))}
         </StyledStudentInfo>
         <StyledIconsDivContainer>
           <p>{mentor.role}</p>
