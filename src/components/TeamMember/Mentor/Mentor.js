@@ -21,8 +21,8 @@ const Mentor = ({ mentor }) => {
               {mentor.firstName} {mentor.lastName}
             </span>
           </h3>
-          {mentor.review.map((paragraph) => (
-            <p>{paragraph}</p>
+          {mentor.review.map((paragraph, index) => (
+            <p key={index}>{paragraph}</p>
           ))}
         </StyledStudentInfo>
         <StyledIconsDivContainer>
