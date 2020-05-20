@@ -437,7 +437,8 @@ export const StudentList = [
     lastName: "Teixeira",
     profilePic: Vicky,
     campus: "Dublin",
-    about: "I'm a lover of words, writing and the media.",
+    about:
+      "I’m an efficient, passionate worker who throws herself fully into all her projects and assignments. I am enthusiastic about learning and gaining various experiences to enhance my existing skills and gain new ones.",
     github: "https://github.com/Vickyleandra",
     linkedIn: "https://www.linkedin.com/in/vicky-leandrabarnard/",
     projects: [

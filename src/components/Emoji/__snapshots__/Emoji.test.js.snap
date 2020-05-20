@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Emoji component unit tests should shallow render an Emoji component with props  1`] = `
+<span
+  aria-hidden="false"
+  aria-label="love"
+  className="emoji"
+  role="img"
+>
+  ❤️
+</span>
+`;
+
+exports[`Emoji component unit tests should shallow render an Emoji component without props  1`] = `
+<span
+  aria-hidden="true"
+  aria-label=""
+  className="emoji"
+  role="img"
+/>
+`;
