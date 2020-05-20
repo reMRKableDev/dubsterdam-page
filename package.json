@@ -14,14 +14,17 @@
     "react-scripts": "3.4.1",
     "styled-components": "^5.1.0",
     "styled-icons": "^10.2.1",
-    "styled-theming": "^2.2.0"
+    "styled-theming": "^2.2.0",
+    "snyk": "^1.323.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "coverage": "react-scripts test --coverage --watchAll=false"
+    "coverage": "react-scripts test --coverage --watchAll=false",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -58,5 +61,6 @@
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
     "enzyme-to-json": "^3.4.4"
-  }
+  },
+  "snyk": true
 }
