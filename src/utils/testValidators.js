@@ -1,3 +1,13 @@
+export const validateMockCalledTwice = (received) => {
+  expect(received).not.toHaveBeenCalledTimes(100);
+  expect(received).toHaveBeenCalledTimes(2);
+};
+
+export const validateObjectToHaveProperties = (received, key) => {
+  expect(received).not.toHaveProperty("dummy");
+  expect(received).toHaveProperty(key);
+};
+
 export const validateRandomGreeting = (received, list) => {
   expect(received).not.toBe("dummy");
   expect(list.includes(received)).toBe(true);
