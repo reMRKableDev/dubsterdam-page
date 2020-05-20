@@ -1,6 +1,6 @@
 # DubSterdam Landing Page
 
-[![CodeFactor](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page/badge)](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page)
+![tests](https://github.com/reMRKableDev/dubsterdam-page/workflows/tests/badge.svg) [![CodeFactor](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page/badge)](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page)
 
 A landing page that summarizes the trainees from the joint Amsterdam and Dublin campuses of Wild Code School. This page is an introduction and collection of the students and their projects made during the bootcamp. 
 
