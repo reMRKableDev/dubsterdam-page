@@ -1,10 +1,12 @@
-# DubSterdam Landing Page
+# We Are DubSterdam
 
-[![CodeFactor](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page/badge)](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page)
+![tests](https://github.com/reMRKableDev/dubsterdam-page/workflows/tests/badge.svg) [![CodeFactor](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page/badge)](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page)
 
-A landing page that summarizes the trainees from the joint Amsterdam and Dublin campuses of Wild Code School. This page is an introduction and collection of the students and their projects made during the bootcamp. 
+A page that summarizes the trainees from the joint Amsterdam and Dublin campuses of Wild Code School. This page is an introduction and collection of the students and their projects made during the bootcamp.
 
-This application is built with [React.js](https://reactjs.org/) and makes use of the [Context API](https://reactjs.org/docs/context.html). A Theme Context is used to provide the application with both "light" and "dark" theme-modes.
+![hero-gif](dubsterdam.gif)
+
+This application is built with [React.js](https://reactjs.org/) and makes use of the [Context API](https://reactjs.org/docs/context.html).
 
 ## Getting Started
 
@@ -15,35 +17,35 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-NPM / Yarn 
+NPM / Yarn
 Code Editor (This app was built on VSCode)
 Git
 ```
 
 ### Installing
 
-To get this project on your local machine, you first need to clone it using the ```git clone``` command. 
+To get this project on your local machine, you first need to clone it using the `git clone` command.
 
 ```
 git clone https://github.com/reMRKableDev/dubsterdam-page.git
 ```
 
-Running this on your terminal will ensure you receive the latest version with all it's changes. 
+Running this on your terminal will ensure you receive the latest version with all it's changes.
 
 Once you've cloned, navigate into the project folder and run
 
 ```
-npm init
+npm install
 ```
 
-This should retrieve all the necessary dependencies named in the ```package.json``` file.
+This should retrieve all the necessary dependencies named in the `package.json` file.
 
 ## Running the tests
 
 This app utilizes Jest & Enzyme for testing the components. Tests can be run by using the command:
 
 ```
-npm test 
+npm test
 
 OR
 
@@ -63,15 +65,13 @@ When contributing to this repository, please first discuss the change you wish t
 Please note that there is a code of conduct, please follow it in all your interactions with the project.
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-   
+
 2. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
 
 ## Authors
 
-* **Malcolm R. Kente** - *Initial work* - [reMRKable Dev](https://remrkabledev.com/)
-
+- **Malcolm R. Kente** - _Initial work_ - [reMRKable Dev](https://remrkabledev.com/)
 
 ## Acknowledgments
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
