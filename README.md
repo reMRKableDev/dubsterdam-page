@@ -35,7 +35,7 @@ Running this on your terminal will ensure you receive the latest version with al
 Once you've cloned, navigate into the project folder and run
 
 ```
-npm init
+npm install
 ```
 
 This should retrieve all the necessary dependencies named in the `package.json` file.
