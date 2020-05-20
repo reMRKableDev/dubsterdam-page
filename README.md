@@ -6,7 +6,7 @@ A page that summarizes the trainees from the joint Amsterdam and Dublin campuses
 
 ![hero-gif](dubsterdam.gif)
 
-This application is built with [React.js](https://reactjs.org/) and makes use of the [Context API](https://reactjs.org/docs/context.html). A Theme Context is used to provide the application with both "light" and "dark" theme-modes.
+This application is built with [React.js](https://reactjs.org/) and makes use of the [Context API](https://reactjs.org/docs/context.html).
 
 ## Getting Started
 
