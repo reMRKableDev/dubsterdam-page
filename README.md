@@ -8,7 +8,7 @@ A page that summarizes the trainees from the joint Amsterdam and Dublin campuses
 
 This application is built with [React.js](https://reactjs.org/) and makes use of the [Context API](https://reactjs.org/docs/context.html).
 
-## Getting Started
+## Getting Started 🏁
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -40,7 +40,7 @@ npm install
 
 This should retrieve all the necessary dependencies named in the `package.json` file.
 
-## Running the tests
+## Running the tests 🧪
 
 This app utilizes Jest & Enzyme for testing the components. Tests can be run by using the command:
 
@@ -58,7 +58,7 @@ To run tests with coverage, use the command:
 npm run coverage
 ```
 
-## Contributing
+## Contributing 👋
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
@@ -68,10 +68,10 @@ Please note that there is a code of conduct, please follow it in all your intera
 
 2. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
 
-## Authors
+## Authors 💻
 
 - **Malcolm R. Kente** - _Initial work_ - [reMRKable Dev](https://remrkabledev.com/)
 
-## Acknowledgments
+## Acknowledgments 🗣️
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
