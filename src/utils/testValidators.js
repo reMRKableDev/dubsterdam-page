@@ -1,3 +1,9 @@
+export const validateRandomGreeting = (received, list) => {
+  expect(received).not.toBe("dummy");
+  expect(list.includes(received)).toBe(true);
+  expect(list.includes(received)).not.toBe(false);
+};
+
 export const validateNotEmpty = (received) => {
   expect(received).not.toBeNull();
   expect(received).toBeTruthy();
