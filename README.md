@@ -2,9 +2,9 @@
 
 ![tests](https://github.com/reMRKableDev/dubsterdam-page/workflows/tests/badge.svg) [![CodeFactor](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page/badge)](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page)
 
-![hero-gif](dubsterdam.gif)
-
 A page that summarizes the trainees from the joint Amsterdam and Dublin campuses of Wild Code School. This page is an introduction and collection of the students and their projects made during the bootcamp.
+
+![hero-gif](dubsterdam.gif)
 
 This application is built with [React.js](https://reactjs.org/) and makes use of the [Context API](https://reactjs.org/docs/context.html). A Theme Context is used to provide the application with both "light" and "dark" theme-modes.
 
