@@ -1,3 +1,16 @@
+export const validateEmojiValue = (received) => {
+  expect(received).not.toBe("dummy");
+  expect(received).toBe("❤️");
+};
+
+export const validateEmptyString = (received) => {
+  expect(received).not.toBe("dummy");
+  expect(received).toBe("");
+};
+
+export const validateMatchSnapshot = (received) =>
+  expect(received).toMatchSnapshot();
+
 export const validateMockCalledTwice = (received) => {
   expect(received).not.toHaveBeenCalledTimes(100);
   expect(received).toHaveBeenCalledTimes(2);
