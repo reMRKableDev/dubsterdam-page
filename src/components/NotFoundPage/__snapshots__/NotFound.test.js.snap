@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Not Found unit tests should validate match snapshot for Not Found component 1`] = `
+<styled.div>
+  <p>
+    Sorry,
+  </p>
+  <styled.h1>
+    This Page 
+    <span>
+      Doesn't Exist!
+    </span>
+  </styled.h1>
+  <Link
+    to="/"
+  >
+    Back to the Homepage
+  </Link>
+</styled.div>
+`;

@@ -1,3 +1,8 @@
+export const validateToBe = (received, expected) => {
+  expect(received).not.toBe("dummy");
+  expect(received).toBe(expected);
+};
+
 export const validateToEqual = (received, expected) => {
   expect(received).not.toEqual("dummy");
   expect(received).toEqual(expected);
