@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar unit test should validate match snapshot to Navbar component with theme 'Dark Mode 🌑' 1`] = `
+<styled.nav>
+  <styled.div>
+    <styled.button>
+      Dark Mode 🌑
+    </styled.button>
+  </styled.div>
+</styled.nav>
+`;
+
+exports[`Navbar unit test should validate match snapshot to Navbar component with theme 'Light Mode 🌕' 1`] = `
+<styled.nav>
+  <styled.div>
+    <styled.button>
+      Light Mode 🌕
+    </styled.button>
+  </styled.div>
+</styled.nav>
+`;
