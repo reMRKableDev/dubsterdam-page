@@ -39,7 +39,7 @@ export const StudentList = [
         id: 3,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 4,
@@ -72,6 +72,13 @@ export const StudentList = [
         description: "An eCommerce platform for books",
         link: "https://dubsterdam-hackathon-bookies.netlify.app/",
       },
+      {
+        id: 3,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
+      },
     ],
   },
   {
@@ -103,6 +110,13 @@ export const StudentList = [
         description: "An eCommerce platform for fashion",
         link: "https://borlin.netlify.app/",
       },
+      {
+        id: 4,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
+      },
     ],
   },
   {
@@ -132,7 +146,7 @@ export const StudentList = [
         id: 3,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 4,
@@ -175,7 +189,7 @@ export const StudentList = [
         id: 3,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 3,
@@ -232,6 +246,13 @@ export const StudentList = [
         description: "An eCommerce platform for fashion",
         link: "https://borlin.netlify.app/",
       },
+      {
+        id: 7,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
+      },
     ],
   },
   {
@@ -261,7 +282,7 @@ export const StudentList = [
         id: 3,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 4,
@@ -310,7 +331,7 @@ export const StudentList = [
         id: 5,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 6,
@@ -353,7 +374,7 @@ export const StudentList = [
         id: 4,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 5,
@@ -385,6 +406,13 @@ export const StudentList = [
         name: "Bookies",
         description: "An eCommerce platform for books",
         link: "https://dubsterdam-hackathon-bookies.netlify.app/",
+      },
+      {
+        id: 3,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
       },
     ],
   },
@@ -421,7 +449,7 @@ export const StudentList = [
         id: 4,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 5,
@@ -465,6 +493,13 @@ export const StudentList = [
         name: "Bookies",
         description: "An eCommerce platform for books",
         link: "https://dubsterdam-hackathon-bookies.netlify.app/",
+      },
+      {
+        id: 5,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
       },
     ],
   },
