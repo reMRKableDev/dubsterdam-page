@@ -24,7 +24,7 @@ function App({ theme }) {
         <Route exact path="/" component={LandingPage} />
         <Route component={NotFound} />
       </Switch>
-      <Footer />
+      <Footer data-testid="app-footer" />
     </div>
   );
 }

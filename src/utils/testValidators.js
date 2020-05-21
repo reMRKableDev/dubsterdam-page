@@ -1,3 +1,8 @@
+export const validateToHaveLength = (received, expected) => {
+  expect(received).not.toHaveLength(1000000000);
+  expect(received).toHaveLength(expected);
+};
+
 export const validateToBe = (received, expected) => {
   expect(received).not.toBe("dummy");
   expect(received).toBe(expected);
