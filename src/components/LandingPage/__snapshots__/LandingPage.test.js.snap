@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landing Page unit tests should validate match snapshot for Landing Page component  1`] = `
+<div>
+  <Header />
+  <TeamList />
+  <TeamMentorsList />
+  <Footer />
+</div>
+`;
