@@ -47,16 +47,17 @@
     ],
     "coverageThreshold": {
       "global": {
-        "branches": 0,
-        "functions": 15,
-        "lines": 30,
-        "statements": 30
+        "branches": 80,
+        "functions": 87,
+        "lines": 95,
+        "statements":95
       }
     }
   },
   "devDependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
-    "enzyme-to-json": "^3.4.4"
+    "enzyme-to-json": "^3.4.4",
+    "jest-styled-components": "^7.0.2"
   }
 }

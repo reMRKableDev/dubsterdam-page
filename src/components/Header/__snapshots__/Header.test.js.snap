@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header unit tests should validate snapshot of Header component 1`] = `
+<styled.header>
+  <styled.figure>
+    <img
+      alt="logo"
+      src="logo.png"
+    />
+  </styled.figure>
+  <styled.h1>
+    We are 
+    <span>
+      DubSterdam
+    </span>
+  </styled.h1>
+</styled.header>
+`;

@@ -5,7 +5,7 @@ import TeamList from "../TeamMembersList/TeamList";
 import TeamMentorsList from "../TeamMentorsList/TeamMentorsList";
 import Footer from "../Footer/Footer";
 
-const LandingPage = ({ theme, handleThemeToggle }) => {
+const LandingPage = () => {
   return (
     <div>
       <Header />

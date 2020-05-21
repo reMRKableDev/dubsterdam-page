@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar Styles unit tests should validate match to snapshot of StyledNav 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  position: fixed;
+  z-index: 3;
+  width: 100%;
+}
+
+<nav
+  className="c0"
+/>
+`;
+
+exports[`Navbar Styles unit tests should validate match to snapshot of StyledThemeButton  1`] = `
+.c0 {
+  border: 1px solid;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
+  cursor: pointer;
+  font-size: 0.8em;
+  padding: 0.5em 1em;
+  outline: none;
+}
+
+<button
+  className="c0"
+/>
+`;
+
+exports[`Navbar Styles unit tests should validate match to snapshot of StyledThemeButtonContainer  1`] = `
+.c0 {
+  padding: 10px;
+}
+
+<div
+  className="c0"
+/>
+`;

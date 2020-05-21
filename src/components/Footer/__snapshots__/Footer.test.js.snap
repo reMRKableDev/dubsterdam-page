@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component unit tests should shallow render component and match snapshot 1`] = `
+<styled.footer>
+  <styled.h2>
+    <span>
+      Thank You
+    </span>
+  </styled.h2>
+  <styled.p>
+    for checking us out!
+  </styled.p>
+  <styled.p>
+    Made with 
+    <Emoji
+      label="love"
+      symbol="❤️"
+    />
+     by
+     
+    <a
+      href="https://remrkabledev.com/"
+    >
+      reMRKable Dev
+    </a>
+  </styled.p>
+</styled.footer>
+`;

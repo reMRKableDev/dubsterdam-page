@@ -1,3 +1,18 @@
+export const validateToHaveLength = (received, expected) => {
+  expect(received).not.toHaveLength(1000000000);
+  expect(received).toHaveLength(expected);
+};
+
+export const validateToBe = (received, expected) => {
+  expect(received).not.toBe("dummy");
+  expect(received).toBe(expected);
+};
+
+export const validateToEqual = (received, expected) => {
+  expect(received).not.toEqual("dummy");
+  expect(received).toEqual(expected);
+};
+
 export const validateEmojiValue = (received) => {
   expect(received).not.toBe("dummy");
   expect(received).toBe("❤️");
