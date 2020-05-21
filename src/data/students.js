@@ -72,6 +72,13 @@ export const StudentList = [
         description: "An eCommerce platform for books",
         link: "https://dubsterdam-hackathon-bookies.netlify.app/",
       },
+      {
+        id: 3,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
+      },
     ],
   },
   {
@@ -102,6 +109,13 @@ export const StudentList = [
         name: "Börlin",
         description: "An eCommerce platform for fashion",
         link: "https://borlin.netlify.app/",
+      },
+      {
+        id: 4,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
       },
     ],
   },
@@ -231,6 +245,13 @@ export const StudentList = [
         name: "Börlin",
         description: "An eCommerce platform for fashion",
         link: "https://borlin.netlify.app/",
+      },
+      {
+        id: 7,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
       },
     ],
   },
@@ -386,6 +407,13 @@ export const StudentList = [
         description: "An eCommerce platform for books",
         link: "https://dubsterdam-hackathon-bookies.netlify.app/",
       },
+      {
+        id: 3,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
+      },
     ],
   },
   {
@@ -465,6 +493,13 @@ export const StudentList = [
         name: "Bookies",
         description: "An eCommerce platform for books",
         link: "https://dubsterdam-hackathon-bookies.netlify.app/",
+      },
+      {
+        id: 5,
+        name: "Sensala",
+        description:
+          "An outsourced, end-to-end medical supply, procurement and inventory management solution.",
+        link: "https://sensala.medfocusgroup.com/",
       },
     ],
   },
