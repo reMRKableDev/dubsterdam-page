@@ -1,6 +1,6 @@
 # We Are DubSterdam
 
-![tests](https://github.com/reMRKableDev/dubsterdam-page/workflows/tests/badge.svg) [![CodeFactor](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page/badge)](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page)
+![tests](https://github.com/reMRKableDev/dubsterdam-page/workflows/tests/badge.svg) [![codecov](https://codecov.io/gh/reMRKableDev/dubsterdam-page/branch/master/graph/badge.svg)](https://codecov.io/gh/reMRKableDev/dubsterdam-page) [![CodeFactor](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page/badge)](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page) 
 
 A page that summarizes the trainees from the joint Amsterdam and Dublin campuses of Wild Code School. This page is an introduction and collection of the students and their projects made during the bootcamp.
 
