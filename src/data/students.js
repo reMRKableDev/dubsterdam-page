@@ -39,7 +39,7 @@ export const StudentList = [
         id: 3,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 4,
@@ -132,7 +132,7 @@ export const StudentList = [
         id: 3,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 4,
@@ -175,7 +175,7 @@ export const StudentList = [
         id: 3,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 3,
@@ -261,7 +261,7 @@ export const StudentList = [
         id: 3,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 4,
@@ -310,7 +310,7 @@ export const StudentList = [
         id: 5,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 6,
@@ -353,7 +353,7 @@ export const StudentList = [
         id: 4,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 5,
@@ -421,7 +421,7 @@ export const StudentList = [
         id: 4,
         name: "Archtemis",
         description: "Tech Super Heroines",
-        link: "https://artechmis.netlify.app/",
+        link: "https://hackathon-codewoman.netlify.app/",
       },
       {
         id: 5,
