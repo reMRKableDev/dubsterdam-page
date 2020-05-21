@@ -1,3 +1,8 @@
+export const validateToEqual = (received, expected) => {
+  expect(received).not.toEqual("dummy");
+  expect(received).toEqual(expected);
+};
+
 export const validateEmojiValue = (received) => {
   expect(received).not.toBe("dummy");
   expect(received).toBe("❤️");

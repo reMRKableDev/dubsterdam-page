@@ -7,6 +7,7 @@ import {
   StyledFooterPhrase,
   StyledFooterDeveloperTag,
 } from "./FooterStyles";
+
 import { validateMatchSnapshot } from "../../utils/testValidators";
 
 describe("Footer styles unit tests", () => {
