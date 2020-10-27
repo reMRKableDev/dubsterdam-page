@@ -1,7 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Footer component unit tests should shallow render component and match snapshot 1`] = `
-<styled.footer>
+<styled.footer
+  data-testid="app-footer"
+>
   <styled.h2>
     <span>
       Thank You
