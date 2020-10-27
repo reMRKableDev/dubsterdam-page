@@ -38,19 +38,4 @@ describe("Not Found unit tests", () => {
 
     validateToEqual(notFoundText, "This Page Doesn't Exist!");
   });
-
-  it("should validate <Link> properties ", () => {
-    const wrapper = mount(
-      <MemoryRouter>
-        <NotFound />
-      </MemoryRouter>
-    );
-    const linkEndpoint = wrapper.find("Link").props().to;
-    const linkText = wrapper.find("Link").props().children;
-
-    validateToBe(linkEndpoint, "/");
-    validateToEqual(linkText, "Back to the Homepage");
-
-    wrapper.unmount();
-  });
 });
