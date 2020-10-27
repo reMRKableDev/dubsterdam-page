@@ -7,7 +7,7 @@ import {
 
 const Navbar = ({ theme, handleThemeToggle }) => {
   return (
-    <StyledNav>
+    <StyledNav data-testid="app-navbar">
       <StyledThemeButtonContainer>
         <StyledThemeButton onClick={handleThemeToggle}>
           {theme.mode === "dark" ? "Light Mode 🌕" : "Dark Mode 🌑"}

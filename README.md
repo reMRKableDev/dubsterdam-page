@@ -1,6 +1,6 @@
 # We Are DubSterdam
 
-![tests](https://github.com/reMRKableDev/dubsterdam-page/workflows/tests/badge.svg) [![codecov](https://codecov.io/gh/reMRKableDev/dubsterdam-page/branch/master/graph/badge.svg)](https://codecov.io/gh/reMRKableDev/dubsterdam-page) [![CodeFactor](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page/badge)](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page) [![Netlify Status](https://api.netlify.com/api/v1/badges/c4bb4fbc-57fa-4e72-b9c6-b5d14bdef677/deploy-status)](https://app.netlify.com/sites/dubsterdam/deploys)
+![tests](https://github.com/reMRKableDev/dubsterdam-page/workflows/tests/badge.svg) [![codecov](https://codecov.io/gh/reMRKableDev/dubsterdam-page/branch/master/graph/badge.svg)](https://codecov.io/gh/reMRKableDev/dubsterdam-page) [![CodeFactor](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page/badge)](https://www.codefactor.io/repository/github/remrkabledev/dubsterdam-page) [![Renovate](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com) [![Netlify Status](https://api.netlify.com/api/v1/badges/c4bb4fbc-57fa-4e72-b9c6-b5d14bdef677/deploy-status)](https://app.netlify.com/sites/dubsterdam/deploys)
 
 A page that summarizes the trainees from the joint Amsterdam and Dublin campuses of Wild Code School. This page is an introduction and collection of the students and their projects made during the bootcamp.
 

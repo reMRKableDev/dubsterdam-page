@@ -18,13 +18,13 @@ function App({ theme }) {
   };
 
   return (
-    <div className="App">
+    <div className="App" data-testid="app-root">
       <Navbar theme={theme} handleThemeToggle={handleThemeToggle} />
       <Switch>
         <Route exact path="/" component={LandingPage} />
         <Route component={NotFound} />
       </Switch>
-      <Footer data-testid="app-footer" />
+      <Footer />
     </div>
   );
 }

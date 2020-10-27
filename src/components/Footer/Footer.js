@@ -9,7 +9,7 @@ import {
 
 const Footer = () => {
   return (
-    <StyledFooter>
+    <StyledFooter data-testid="app-footer">
       <StyledH2>
         <span>Thank You</span>
       </StyledH2>
