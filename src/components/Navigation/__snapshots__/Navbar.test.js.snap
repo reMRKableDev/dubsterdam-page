@@ -5,9 +5,13 @@ exports[`Navbar unit test should validate match snapshot to Navbar component wit
   data-testid="app-navbar"
 >
   <styled.div>
-    <styled.button>
-      Dark Mode 🌑
-    </styled.button>
+    <NavbarButton
+      theme={
+        Object {
+          "mode": "light",
+        }
+      }
+    />
   </styled.div>
 </styled.nav>
 `;
@@ -17,9 +21,13 @@ exports[`Navbar unit test should validate match snapshot to Navbar component wit
   data-testid="app-navbar"
 >
   <styled.div>
-    <styled.button>
-      Light Mode 🌕
-    </styled.button>
+    <NavbarButton
+      theme={
+        Object {
+          "mode": "dark",
+        }
+      }
+    />
   </styled.div>
 </styled.nav>
 `;
